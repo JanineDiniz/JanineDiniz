@@ -1,4 +1,5 @@
 <div align="center">
+
 ### Olá pessoal, meu nome é Janine!👋
 
 Durante 3 anos, estudante de Desenvolvimento de Sistemas desenvolvendo projetos com o uso de tecnologias Mobile, Web e automações.
