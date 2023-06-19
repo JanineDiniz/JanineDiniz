@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0cabc4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Janine!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0cabc4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Janine!;:%29)](https://git.io/typing-svg)
 <br/>
 
 Durante 3 anos, estudante de Desenvolvimento de Sistemas desenvolvendo projetos com o uso de tecnologias Mobile, Web e automações.
