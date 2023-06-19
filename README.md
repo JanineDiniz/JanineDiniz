@@ -1,4 +1,5 @@
-###Olá pessoal, meu nome é Janine!
+<div align="center">
+### Olá pessoal, meu nome é Janine!👋
 
 Durante 3 anos, estudante de Desenvolvimento de Sistemas desenvolvendo projetos com o uso de tecnologias Mobile, Web e automações.
 Atualmente, buscando aprimorar minhas habilidades em Front-end!
@@ -19,6 +20,7 @@ Atualmente, buscando aprimorar minhas habilidades em Front-end!
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/janine-diniz/)
 
+</div>
 <!--
 **JanineDiniz/JanineDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
