@@ -2,8 +2,8 @@
 
 ### Olá pessoal, meu nome é Janine!👋
 
-Durante 3 anos, estudante de Desenvolvimento de Sistemas desenvolvendo projetos com o uso de tecnologias Mobile, Web e automações.
-Atualmente, buscando aprimorar minhas habilidades em Front-end!
+Durante 3 anos fui estudante de Desenvolvimento de Sistemas, realizando projetos com o uso de tecnologias Mobile, Web e automações.
+Atualmente, busco aprimorar minhas habilidades em Front-end!
 
 ### Detalhes
 
