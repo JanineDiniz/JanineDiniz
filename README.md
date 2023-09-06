@@ -11,7 +11,7 @@ For 3 years I was a Systems Development student, carrying out projects using Mob
 [<img src='https://img.shields.io/badge/LinkedIn-6ebfd4?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/janine-diniz/)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanineDiniz&theme=transparent&bg_color=fff&border_color=6ebfd4&show_icons=true&icon_color=6ebfd4&title_color=ed5247&text_color=404040)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanineDiniz&theme=transparent&bg_color=fff&border_color=6ebfd4&show_icons=true&icon_color=6ebfd4&title_color=ed5247&text_color=404040&hide_title=true)
 
 ### Project
 
@@ -19,7 +19,7 @@ For 3 years I was a Systems Development student, carrying out projects using Mob
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JanineDiniz&layout=compact&bg_color=fff&border_color=6ebfd4&title_color=ed5247&text_color=000)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JanineDiniz&layout=compact&bg_color=fff&border_color=6ebfd4&title_color=ed5247&text_color=000&hide_title=true)
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/HTML-fff?style=for-the-badge&logo=html5&logoColor=ed5247)
